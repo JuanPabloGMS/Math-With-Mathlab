@@ -1,0 +1,2 @@
+function t = cuadtrap(f,a,b)
+end

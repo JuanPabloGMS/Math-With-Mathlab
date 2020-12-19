@@ -1,0 +1,3 @@
+function null = calcInteg(f1,f2,a,b,dxdx)
+    icuadrect(f1,a,b)
+end
